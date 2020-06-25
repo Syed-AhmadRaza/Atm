@@ -1,0 +1,15 @@
+This a practice customized Atm project ....i want to publick that post to make it better by contributors
+Here it is doing the file handling .in which it stores the user finantial information of user 1 in a and user 2 in b.my file keeps the record of all the functions user is performing with in the program. 
+
+
+passcodes of atm project
+
+user 1 Ahmad login = 1550
+user 2 raza login=2550
+fund tranfer=78910
+school bill transfer=56471
+utility bills tranfer protocol=56471
+electricity bill tranfer protocol.=83723
+Pakistan cable bill tranfer protocol=12712
+Pakistan gas bill tranfer protocol=16745
+other bill tranfer protocol=23453
